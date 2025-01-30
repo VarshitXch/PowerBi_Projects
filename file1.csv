@@ -1,0 +1,26 @@
+,Year,Transacion_type,Transacion_count
+0,2018,Financial Services,20384145
+1,2018,Merchant payments,112656898
+2,2018,Others,24575693
+3,2018,Peer-to-peer payments,523796208
+4,2018,Recharge & bill payments,398789466
+5,2019,Financial Services,12624867
+6,2019,Merchant payments,1149862129
+7,2019,Others,46571025
+8,2019,Peer-to-peer payments,1954956507
+9,2019,Recharge & bill payments,915812687
+10,2020,Financial Services,8514716
+11,2020,Merchant payments,2729138477
+12,2020,Others,28904189
+13,2020,Peer-to-peer payments,3491324361
+14,2020,Recharge & bill payments,1716092998
+15,2021,Financial Services,13726318
+16,2021,Merchant payments,8436879039
+17,2021,Others,46034148
+18,2021,Peer-to-peer payments,8123977694
+19,2021,Recharge & bill payments,2667812021
+20,2022,Financial Services,15890732
+21,2022,Merchant payments,20697814959
+22,2022,Others,47652925
+23,2022,Peer-to-peer payments,14997309061
+24,2022,Recharge & bill payments,3542626057
